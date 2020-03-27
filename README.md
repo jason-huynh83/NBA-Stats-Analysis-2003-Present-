@@ -1,5 +1,4 @@
-# jason-huynh83
-NBA-Stats-Analysis (2003-Present)
+#NBA-Stats-Analysis (2003-Present)
 
 Goal: Create an ETL for NBA stats and analyzing data for future NBA win predictions
 Programmed in Python, and used an ETL strategy (Extract, Transform, and Load) for NBA data from season 2003 until present day.
